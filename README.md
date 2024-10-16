@@ -10,7 +10,7 @@ This is a simple and intuitive todo app built with React Native. The app allows 
 
 ## App Screen
 
-![](./assets/appScreen.png)
+![](./assets/todo.png)
 
 ## Features
 
