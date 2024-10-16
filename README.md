@@ -28,13 +28,13 @@ This is a simple and intuitive todo app built with React Native. The app allows 
 ### clone the repository
 
 ```
-git clone https://github.com/ozerbaykal/reacn-native-asyncStorage.git
+git clone https://github.com/ozerbaykal/react-native-asyncStorage.git
 ```
 
 ### Navigate to the project directory:
 
 ```
-cd reacn-native-asyncStorage
+cd react-native-asyncStorage
 ```
 
 ### Install the dependencies:
@@ -64,4 +64,4 @@ Contributions are welcome! Please open an issue first to discuss what you would 
 
 Özer BAYKAL mail : baykalozer87@gmail.com
 
-Project Link: https://github.com/ozerbaykal/reacn-native-asyncStorage
+Project Link: https://github.com/ozerbaykal/react-native-asyncStorage
